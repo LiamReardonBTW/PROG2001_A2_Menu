@@ -1,2 +1,2 @@
 # PROG2001_A2_Menu
- Menu Scene used in lreard11's Assignment 2 of PROG2001.
+ Menu Scene used in Assignment 2 of PROG2001.
